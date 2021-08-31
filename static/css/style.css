@@ -1,0 +1,30 @@
+body {
+    background-color: #F0E5CF;
+    color: #4B6587;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 700;
+    padding-top: 25px;
+}
+
+main button {
+    background-color: #1E3163;
+    color: #F8F8F8;
+}
+
+main button:hover{
+    background-color: #C8C6C6;
+    color: #4B6587;
+}
+
+main a{
+    text-decoration: none;
+    color: #A12568;
+}
+
+main a:hover{
+    text-decoration: none;
+    color: #3B185F;
+}
+
+
